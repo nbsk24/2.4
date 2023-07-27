@@ -1,0 +1,16 @@
+body {
+    max-width: 1280px;
+    margin: 0;
+    padding: 0;
+    background-color: #1b1a1b;
+    color: #ffffff;
+    
+}
+
+.links {
+    outline: 2px solid red;
+}
+
+.link {
+    list-style-type: none;
+}
