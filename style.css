@@ -1,15 +1,22 @@
 body {
-    max-width: 1280px;
-    background-color: #1b1a1b;
-    color: #ffffff;    
+  max-width: 1280px;
+  background-color: #1b1a1b;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: normal;
+  margin: 0;    
 }
-
 .header {
-    font-family: Arial, Helvetica, sans-serif;
+  margin:0;
 }
 
 .links {
-    margin: 0;
-    list-style-type: none;
-    font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.link:first-child {
+  padding-bottom: 5px;
 }
